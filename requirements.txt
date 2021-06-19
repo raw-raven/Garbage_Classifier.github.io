@@ -1,0 +1,13 @@
+cloudant==2.14.0
+Flask==2.0.1
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+numpy==1.19.5
+Pillow==5.1.0
+simplejson==3.13.2
+tensorboard==2.5.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+
